@@ -59,7 +59,7 @@ Key achievements:
 Lalith offers free 1:1 sessions:
 - Resume Review (30 min) — FAANG-ready resume feedback
 - LinkedIn Strategy (45 min) — engineer personal brand growth
-- ML Career Mentorship (30 min) — SWE → ML Engineer transition guidance
+- SWE Career Mentorship (30 min) — SWE career growth, leveling, and FAANG navigation
 - Mock System Design Interview (60 min) — FAANG-style system design prep
 - Mock DSA Interview (60 min) — LeetCode-style coding interview practice
 Book at: cal.com/lmannem

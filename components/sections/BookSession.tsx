@@ -51,10 +51,10 @@ const SESSIONS = [
   },
   {
     icon: BrainCircuit,
-    title: "ML Career Mentorship",
-    tagline: "SWE → ML Engineer",
+    title: "SWE Career Mentorship",
+    tagline: "Navigate your SWE career at FAANG",
     description:
-      "Career roadmap, skill gaps analysis, and a concrete plan for transitioning into ML Engineering roles at FAANG. I made this move — let me shortcut it for you.",
+      "Career roadmap, leveling advice, and a concrete plan for growing as a Software Engineer — whether you're targeting FAANG, transitioning into ML, or figuring out your next move.",
     duration: "30 min",
     price: "Free",
     calSlug: "ml-career-chat-swe-to-ml-engineer",
